@@ -1,3 +1,3 @@
 # meetups
 
-My mom told me taking notes was good for my brain.
+Notes, talks, sample code and others.
