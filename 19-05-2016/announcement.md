@@ -8,9 +8,9 @@ Agenda:
 18:00
 - Oslo Bysykkel — Anders Svendal
 
-Anders writes the code that make flat designs come to life. Programming languages like Ruby, JavaScript and Swift may not mean much to most people, but are his essential tools for making great stuff happen.
-Anders freelanced as a web developer while earning his Bachelors degree in Information Technology, and has been programming since the age of 13.
-He is now part of Tight, the company behind the new Oslo Bysykkel app. In this talk Anders will guide us through what it took to bring one of the most beloved apps in Oslo to life. He will also share tips on working with hardware and some fun anecdotes while building this app.
+Anders is a full stack developer and proud half of Tight. His workday is all about making digital products for clients like Aftenposten, NSB and Oslo Bysykkel – with Ruby, JavaScript and Swift being the favourite tools of the trade.
+ 
+In 2016, Tight’s focus has been all about Oslo Bysykkel, and bringing one of Oslo’s most beloved services to the smartphone. In this talk, Anders will walk us through what it took to bring the app to life – diving into a hardware project for the first time with super high stakes and a really short timeframe.
 
 18:45:
 - Opera - Igor Mandrigin
