@@ -21,3 +21,4 @@ Igor is a Team Lead at Opera Software, before that he used to lead development a
 19:30
 
 - Pizza + Beers
+Do you want to be a sponsor? Contus us.
